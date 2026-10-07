@@ -47,7 +47,9 @@ app.*.map.json
 # Widget Preview related
 .widget_preview/
 
-# Informe y evidencias (no se publican en el repositorio)
+# Informe, evidencias y material de exposicion (no se publican en el repositorio)
 INFORME_TECNICO.md
 INFORME_TECNICO.pdf
 /evidencias/
+PRESENTACION_SaboresCusco.pdf
+NOTAS_PRESENTACION.md
